@@ -21,7 +21,6 @@ public class App {
         do {
             System.out.println("\n======================================================");
             System.out.println("SISTEMA DE ARTÍCULOS");
-            System.out.println("CLASE 4 (HERENCIA Y TO_STRING)");
             System.out.println("======================================================");
             System.out.println("1 - Ingresar artículo");
             System.out.println("2 - Listar artículos");
